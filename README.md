@@ -43,7 +43,7 @@ Learn to use best practices to write maintainable, reusable, complex functions w
 ### Finished  11    Introduction to Shell 
 The Unix command line helps users combine existing programs in new ways, automate repetitive tasks, and run programs ...
 
-12    Software Engineering for Data Scientists in Python 
+### Finished  12    Software Engineering for Data Scientists in Python 
 Learn about modularity, documentation, and automated testing to help you solve data science problems more quickly and...
 
 13    Developing Python Packages 
