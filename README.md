@@ -28,7 +28,7 @@ Continue to build your modern Data Science skills by learning about iterators an
 ### Finished  6    Writing Efficient Python Code 
 Learn to write efficient code that executes quickly and allocates resources skillfully to avoid unnecessary overhead.
 
-7    Working with Dates and Times in Python 
+### Finished  7    Working with Dates and Times in Python 
 Learn how to work with dates and times in Python.
 
 8    Regular Expressions in Python 
